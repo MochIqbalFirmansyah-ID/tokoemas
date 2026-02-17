@@ -1,2 +1,0 @@
-@livewire('custom-notification-list')
-

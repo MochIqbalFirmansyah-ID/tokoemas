@@ -1,6 +1,6 @@
 # Dokumentasi Kode Sekarang + Rencana Awal Multitenant
 
-Ini rangkuman buat tim: kondisi codebase hari ini, apa yang udah jalan buat tenant, bagian yang masih rawan, dan konsep multitenant yang mau aku pegang sebagai acuan.
+kondisi codebase hari ini, apa yang udah jalan buat tenant, bagian yang masih rawan, dan konsep multitenant yang aku pegang sebagai acuan.
 
 ## Gambaran cepat proyek
 
